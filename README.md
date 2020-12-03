@@ -1,6 +1,13 @@
-### Hi there 👋
+### Welcome! 👋
 
-🌱 I’m currently learning ...
+
+
++ :school: **Who I am**: I am a student in Sun Yat-sen University majoring in Computer Science (Supercomputing), and will earn my bachelor's degree in 2023
++ :books: **I’m currently learning**: C, C++, data Structure and algorithm.
++ :lollipop: **I'm interested in**: Some advanced data sturctures and algorithms, Competitive programming and Computer Graphics.
++ 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
+
+
 
 <!--
 **lixk28/lixk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
