@@ -3,7 +3,7 @@
 
 
 + :school: **Who I am**: I am a student in Sun Yat-sen University majoring in Computer Science (Supercomputing), and will earn my bachelor's degree in 2023
-+ :books: **I’m currently learning**: C, C++, data Structure and algorithm.
++ :books: **I’m currently learning**: C, C++, data Structure and algorithm, computer organization.
 + :lollipop: **I'm interested in**: Some advanced data sturctures and algorithms, Competitive programming and Computer Graphics.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
