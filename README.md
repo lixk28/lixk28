@@ -7,8 +7,12 @@
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixk28&layout=compact)](https://github.com/lixk28/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixk28&show_icons=true)
 
 
