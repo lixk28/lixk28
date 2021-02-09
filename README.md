@@ -1,7 +1,5 @@
 ### Welcome! 👋
 
-
-
 + :school: **About me**: I am a student in Sun Yat-sen University majoring in Computer Science(super computing).
 + :books: **I’m currently learning**: C++, python, data structures, algorithms, latex.
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
@@ -18,7 +16,6 @@ No Activity tracked this Week
 
 ![L1xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixk28&show_icons=true)
 
-[![L1xk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lixk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
