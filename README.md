@@ -7,6 +7,7 @@
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
+:bar_chart: **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
