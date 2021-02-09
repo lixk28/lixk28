@@ -18,7 +18,7 @@ No Activity tracked this Week
 
 ![L1xk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixk28&show_icons=true)
 
-[![L1xk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lixk28&layout=compact)](https://github.com/lixk28/github-readme-stats)
+[![L1xk's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lixk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
