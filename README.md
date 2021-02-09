@@ -8,7 +8,9 @@
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixk28&layout=compact)](https://github.com/lixk28/github-readme-stats)
