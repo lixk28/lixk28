@@ -2,7 +2,7 @@
 
 
 
-+ :school: **Who I am**: I am a student in Sun Yat-sen University majoring in Computer Science(super computing).
++ :school: **About me**: I am a student in Sun Yat-sen University majoring in Computer Science(super computing).
 + :books: **I’m currently learning**: C++, python, data structures, algorithms, latex.
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
