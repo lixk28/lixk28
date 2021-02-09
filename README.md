@@ -7,6 +7,8 @@
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
