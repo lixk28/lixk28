@@ -6,7 +6,7 @@
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 :bar_chart: **This Week I Spent My Time On**
-
+<figure><embed src="https://wakatime.com/share/@0af7739b-7e39-4f4c-8e96-2b0842dfaf85/7f48015d-99a4-4559-8cae-b78762854989.svg"></embed></figure>
 <img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity" width=600/>
 
 
