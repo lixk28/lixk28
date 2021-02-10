@@ -6,7 +6,7 @@
 + 📫 **How to reach me**: You can send an email to [my mailbox](niklausama@qq.com).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-386-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-435-blue)
 
 📊 **This Week I Spent My Time On** 
 
