@@ -5,15 +5,8 @@
 + :lollipop: **I'm interested in**: Machine learning and Competitive programming.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
-:bar_chart: **This Week I Spent My Time On** (but it seems that it's not working:smile:)
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity"/>
-
+:bar_chart: **This Week I Spent My Time On**
+<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity" width=500/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixk28&langs_count=10&layout=compact&&hide_border=true)](https://github.com/lixk28/github-readme-stats)
