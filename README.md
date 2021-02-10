@@ -6,11 +6,11 @@
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-386-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 C++                      18 mins             ███████████████████████░░   95.01% 
 Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
