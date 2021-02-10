@@ -6,18 +6,6 @@
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 72 Contributions in the Year 2021
- > 
-> 📦 27.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
