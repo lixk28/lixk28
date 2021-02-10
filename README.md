@@ -7,6 +7,39 @@
 
 :bar_chart: **This Week I Spent My Time On**
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 55 Contributions in the Year 2021
+ > 
+> 📦 27.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      18 mins             ███████████████████████░░   95.01% 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+🔥 Editors: 
+VS Code                  12 mins             ████████████████░░░░░░░░░   67.42% 
+CLion                    5 mins              ███████░░░░░░░░░░░░░░░░░░   27.95% 
+PyCharmCore              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.63%
+
+💻 Operating System: 
+Linux                    19 mins             █████████████████████████   100.0%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 
