@@ -2,8 +2,8 @@
 
 + :school: **About me**: I am a student in Sun Yat-sen University majoring in Computer Science(super computing).
 + :books: **I’m currently learning**: C++, python, data structures, algorithms, latex.
-+ :lollipop: **I'm interested in**: Machine learning and Competitive programming.
-+ 📫 **How to reach me**: You can send an email to [my mailbox](niklausama@qq.com).
++ :lollipop: **I'm currently interested in**: Machine learning and Competitive programming.
++ 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-386-blue)
