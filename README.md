@@ -6,7 +6,8 @@
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 :bar_chart: **This Week I Spent My Time On**
-<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity" width=500/>
+
+<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity" width=600/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixk28&langs_count=10&layout=compact&&hide_border=true)](https://github.com/lixk28/github-readme-stats)
