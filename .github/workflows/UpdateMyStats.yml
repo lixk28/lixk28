@@ -11,7 +11,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update My Profile's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
