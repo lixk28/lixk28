@@ -12,7 +12,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/lixk28/lixk28/blob/main/images/stat.svg" alt="lixk28 WakaTime Activity"/>
 
 
 
