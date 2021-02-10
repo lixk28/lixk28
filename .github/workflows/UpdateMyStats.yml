@@ -1,4 +1,3 @@
-
 name: Waka Readme
 
 on:
@@ -20,5 +19,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"  
           SHOW_LANGUAGE: "True"  
           SHOW_OS: "True"  
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "False"
