@@ -1,8 +1,8 @@
 ### Hi! 👋
 
 + :school: **About me**: I am a student in Sun Yat-sen University majoring in Computer Science(super computing).
-+ :books: **I’m currently learning**: C++, python, machine learning, latex.
-+ :lollipop: **I'm currently interested in**: Machine learning, Competitive programming, computer vision and computer graphics.
++ :books: **I’m currently learning**: C++, python, machine learning, game theory, LaTeX.
++ :lollipop: **I'm currently interested in**: Machine Learning, Competitive Programming, Computer Vision and Computer Graphics.
 + 📫 **How to reach me**: You can send an email to me by niklausama@qq.com.
 
 <!--START_SECTION:waka-->
