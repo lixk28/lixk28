@@ -34,7 +34,7 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixk28&langs_count=8&layout=compact&hide_border=true)](https://github.com/lixk28/github-readme-stats)
-
+![Snowden's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixk28&show_icons=true&hide_border=true&count_private=true)
 
 
 
