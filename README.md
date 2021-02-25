@@ -6,8 +6,6 @@
 + 📫 **How to reach me**: You can send an email to me by snowdensama@gmail.com.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
