@@ -2,7 +2,7 @@
 
 + :school: **About me**: I am a student in Sun Yat-sen University majoring in Computer Science(supercomputing).
 + :books: **I’m currently learning**: Rust, Operating System, Machine Learning, Computer Network.
-+ :lollipop: **I'm currently interested in**: Machine Learning(especially deep reinforcement learning), Computer Vision and Computer Graphics.
++ :lollipop: **I'm currently interested in**: Deep Learning, Computer Vision and Computer Graphics.
 + 📫 **How to reach me**: You can send an email to me by snowdensama@gmail.com.
 
 <!--START_SECTION:waka-->
