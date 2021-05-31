@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-+ :school: **About me**: I'm an two-year undergraduate in Sun Yat-sen University majoring in Computer Science(supercomputing class).
++ :school: **About me**: I'm a two-year undergraduate in Sun Yat-sen University majoring in Computer Science(supercomputing class).
 + :books: **I’m currently learning**: Rust, Operating System, Machine Learning, Computer Network.
 + :lollipop: **I'm currently interested in**: Computer Vision, Computer Graphics, Combinatorics, HPC and OS engineering.
 + 📫 **How to reach me**: You can send an email to me by snowdensama@gmail.com.
